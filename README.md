@@ -36,10 +36,10 @@
   <table  style="border-color:#000;">
     <tr>
       <td>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xm1nh4j&theme=blue-green&show_icons=true" style="pointer-events: none;" />
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xm1nh4j&theme=blue-green&show_icons=true" unselectable="on" />
       </td>
       <td>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=0xm1nh4j&theme=blue-green" style="pointer-events: none;" />
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=0xm1nh4j&theme=blue-green" unselectable="on" />
       </td>
     </tr>
   </table>
