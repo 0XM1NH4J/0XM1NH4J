@@ -1,5 +1,5 @@
 <h1 align="center"><b>Hey there, I'm Md Minhajul Islam</b></h1>
-<h3 align="center"><b><i>A passionate Cyber guy from Bangladesh tries to solve any problem in Cyberspace.</i></b></h3>
+<h3 align="center"><b><i>AI & ML Specialist | Deep Learning Innovator | Data Science & Predictive Analytics Professional</i></b></h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=0xm1nh4j&label=Profile%20views&color=0e75b6&style=flat" alt="0xm1nh4j" /> </p>
 
